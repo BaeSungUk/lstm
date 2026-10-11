@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/
+checkpoints/
+*.pyc
+.superpowers/
+
+# Local experiment artifacts and development files
+results/
+results-*/
+notebooks/
+tests/
+docs/
+requirements-lock.txt
